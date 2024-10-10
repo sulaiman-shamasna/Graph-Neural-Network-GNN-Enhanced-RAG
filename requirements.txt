@@ -1,3 +1,5 @@
 openai
 langchain
 torch
+langchain_community
+python-dotenv
