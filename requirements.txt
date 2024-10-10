@@ -1,5 +1,6 @@
 openai
-langchain
+# langchain
 torch
 langchain_community
 python-dotenv
+chromadb
