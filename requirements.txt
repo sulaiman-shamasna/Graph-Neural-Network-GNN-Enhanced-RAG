@@ -4,3 +4,4 @@ torch
 langchain_community
 python-dotenv
 chromadb
+pypdf
